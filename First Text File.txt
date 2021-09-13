@@ -1,5 +1,0 @@
-This is a first file in git
-
-Adding another line.
-
-Another line.
